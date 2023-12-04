@@ -27,7 +27,7 @@ Email field will be used as username.
 ## Access H2 Database :  
 Search localhost:8080/h2-ui, insert credentials and connect  
 
-![H2 Connect](H2 Connect.png)
+![H2 Connect](H2Connect.png)
 
 
 ## Dependencies:  
